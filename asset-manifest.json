@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aleapp/static/css/main.a81b9a05.css",
+    "main.js": "/Aleapp/static/js/main.f647be94.js",
+    "static/media/png.png": "/Aleapp/static/media/png.8b0f7e4bb4df26189c0a.png",
+    "static/media/svg.svg": "/Aleapp/static/media/svg.10b326ff9744039077973f2c925dd01f.svg",
+    "index.html": "/Aleapp/index.html",
+    "main.a81b9a05.css.map": "/Aleapp/static/css/main.a81b9a05.css.map",
+    "main.f647be94.js.map": "/Aleapp/static/js/main.f647be94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a81b9a05.css",
+    "static/js/main.f647be94.js"
+  ]
+}
